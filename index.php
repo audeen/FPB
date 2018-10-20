@@ -1,3 +1,12 @@
 <?php
 
+//////////////////////////////////////////////
+//
+//  Fachbereich Medien FH-Kiel - 3.Semester //
+//  Beschreibung    :
+//  Ersteller       :
+//  Stand           :
+//  Version         : 1.0                   //
+//////////////////////////////////////////////
+
 ?>
